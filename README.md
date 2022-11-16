@@ -1,1 +1,1 @@
-Cli = Command line interface Country Holidays
+Cli = Command line interface for Country Holidays
