@@ -22,5 +22,8 @@
     "country-list": "^2.2.0",
     "figlet": "^1.5.2",
     "ora": "^6.1.2"
+  },
+  "bin": {
+    "holidate": "./index.js"
   }
 }
