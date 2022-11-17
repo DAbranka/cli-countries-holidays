@@ -57,3 +57,5 @@ async function holidays() {
 countries();
 CountryCode();
 holidays();
+
+// todo: Publier sur npm 

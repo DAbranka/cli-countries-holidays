@@ -24,6 +24,6 @@
     "ora": "^6.1.2"
   },
   "bin": {
-    "holidate": "/index.js"
+    "holidate": "./index.js"
   }
 }
